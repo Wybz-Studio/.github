@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://naxalian.fr/">
-    <img src="naxalian_3.png" alt="Logo" width="256">
+    <img src="https://github.com/Naxalian/.github/blob/main/profile/naxalian_3.png" alt="Logo" width="256">
   </a>
 
   <p align="center">
@@ -18,7 +18,7 @@
 
 ## About The Project
 
-![Screen Shot](screenshot.png)
+![Screen Shot](https://github.com/Naxalian/.github/blob/main/profile/screenshot.png)
 
 Naxalian offers its users management tools for their organizations. We support our clients in the realization of their projects.
 
