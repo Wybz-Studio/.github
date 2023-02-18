@@ -42,7 +42,7 @@ Naxalian uses a few tools to help us develop our projects.
 
 All our services are avaliable on our website. You just have to create an account and enjoy all our free services !
 
-_For more informations, please refer to our [websute](https://naxalian.fr)_
+_For more informations, please refer to our [website](https://naxalian.fr)_
 
 ## Authors
 
