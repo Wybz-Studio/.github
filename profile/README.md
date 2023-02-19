@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://naxalian.fr/">
+  <a href="https://www.naxalian.fr/">
     <img src="https://github.com/Naxalian/.github/blob/main/profile/naxalian_3.png" alt="Logo" width="256">
   </a>
 
@@ -8,7 +8,7 @@
     Naxalian is a French digital agency that offers free services that can be used by everyone.
     <br/>
     <br/>
-    <a href="https://naxalian.fr/"><strong>Visit our website »</strong></a>
+    <a href="https://www.naxalian.fr/"><strong>Visit our website »</strong></a>
     <br/>
     <br/>
   </p>
@@ -42,7 +42,7 @@ Naxalian uses a few tools to help us develop our projects.
 
 All our services are avaliable on our website. You just have to create an account and enjoy all our free services !
 
-_For more informations, please refer to our [website](https://naxalian.fr)_
+_For more informations, please refer to our [website](https://www.naxalian.fr/)_
 
 ## Authors
 
