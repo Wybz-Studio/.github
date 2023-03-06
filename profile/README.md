@@ -48,4 +48,3 @@ _For more informations, please refer to our [website](https://www.naxalian.fr/)_
 
 * **FunoxPanda** - *Lead Developer* - [GitHub](https://github.com/FunoxPanda)
 * **Raraph84** - *Developer* - [GitHub](https://github.com/Raraph84)
-* **SuperCraft3M** - *Developer* - [GitHub](https://github.com/SuperCraft3M)
