@@ -23,8 +23,8 @@
 Naxalian offers its users management tools for their organizations. We support our clients in the realization of their projects.
 
 Here are some completed and/or future projects developed by our teams:
-* **PLANNER**: Organize your tasks into card lists. These can be assigned to any member of your team to ensure timely management of your project.
-* **NOTES**: Write and share notes with your team. You can even chat in real time with your colleagues. A single objective, to make note taking easier!
+* **BOARDS**: Organize your tasks into card lists. These can be assigned to any member of your team to ensure timely management of your project.
+[SOON] * **NOTES**: Write and share notes with your team. You can even chat in real time with your colleagues. A single objective, to make note taking easier!
 * **DEBUGGER**: Allow your customers and team to report bugs they find. You can process these reports and import them into PLANNER.
 
 This list is not exhaustive.
@@ -36,7 +36,7 @@ Naxalian uses a few tools to help us develop our projects.
 
 
 * [React](https://github.com/facebook/react/)
-* [The PHP Project](https://twitter.com/official_php)
+* [PHP](https://twitter.com/official_php)
 
 ## Usage
 
@@ -46,6 +46,6 @@ _For more informations, please refer to our [website](https://www.naxalian.fr/)_
 
 ## Authors
 
-* **FunoxPanda** - *Lead Developer* - [GitHub](https://github.com/FunoxPanda)
-* **Raraph84** - *Developer* - [GitHub](https://github.com/Raraph84)
-* **SuperCraft3M** - *Developer* - [GitHub](https://github.com/SuperCraft3M)
+* **FunoxPanda** - *Lead Developer, CEO* - [GitHub](https://github.com/FunoxPanda)
+* **Raraph84** - *Developer, Sys. Admin* - [GitHub](https://github.com/Raraph84)
+* **SuperCraft3M** - *Developer, CM* - [GitHub](https://github.com/SuperCraft3M)
