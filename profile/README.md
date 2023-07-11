@@ -24,7 +24,7 @@ Naxalian offers its users management tools for their organizations. We support o
 
 Here are some completed and/or future projects developed by our teams:
 * **BOARDS**: Organize your tasks into card lists. These can be assigned to any member of your team to ensure timely management of your project.
-[SOON] * **NOTES**: Write and share notes with your team. You can even chat in real time with your colleagues. A single objective, to make note taking easier!
+* [SOON] **NOTES**: Write and share notes with your team. You can even chat in real time with your colleagues. A single objective, to make note taking easier!
 * **DEBUGGER**: Allow your customers and team to report bugs they find. You can process these reports and import them into PLANNER.
 
 This list is not exhaustive.
