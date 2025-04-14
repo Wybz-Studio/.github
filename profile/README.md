@@ -38,14 +38,13 @@ Naxalian uses a few tools to help us develop our projects.
 * [React](https://github.com/facebook/react/)
 * [PHP](https://twitter.com/official_php)
 
-## Usage
-
-All our services are avaliable on our website. You just have to create an account and enjoy all our free services !
-
-_For more informations, please refer to our [website](https://www.naxalian.fr/)_
-
+## Utilisation de l'intelligence artificielle
+<a href="https://www.wybz.fr/assets/ia-chart.webp" target="_blank">
+  <img src="https://www.wybz.fr/assets/ia-chart.webp" alt="Charte de l'IA" width="256">
+</a>
 ## Authors
 
-* **FunoxPanda** - *Lead Developer, CEO* - [GitHub](https://github.com/FunoxPanda)
-* **Raraph84** - *Developer, Sys. Admin* - [GitHub](https://github.com/Raraph84)
-* **SuperCraft3M** - *Developer, CM* - [GitHub](https://github.com/SuperCraft3M)
+* **Ewen Rodrigues de Oliveira** - *CEO, développeur* - [GitHub](https://github.com/FunoxPanda)
+* **Raphaël Laurens** - *développeur, Sys. Admin* - [GitHub](https://github.com/Raraph84)
+
+*Merci à [Mathis J.](https://github.com/SuperCraft3M) pour son aide sur certains des projets.*
