@@ -25,7 +25,7 @@
 
 ## Utilisation de l'intelligence artificielle
 
-![Screen Shot](https://www.wybz.fr/assets/ia-chart.webp)
+![charte de l'utilisation de l'IA](https://www.wybz.fr/assets/ia-chart.webp)
 
 ## Contributeurs
 
