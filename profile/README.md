@@ -1,14 +1,14 @@
 <br/>
 <p align="center">
-  <a href="https://www.naxalian.fr/">
-    <img src="https://github.com/Naxalian/.github/blob/main/profile/naxalian_3.png" alt="Logo" width="256">
+  <a href="https://www.wybz.fr/">
+    <img src="https://www.wybz.fr/assets/logotext.png" alt="Logo" width="256">
   </a>
 
   <p align="center">
-    Naxalian is a French digital agency that offers free services that can be used by everyone.
+    Wybz est un studio de développement web responsable français 🐓
     <br/>
     <br/>
-    <a href="https://www.naxalian.fr/"><strong>Visit our website »</strong></a>
+    <a href="https://www.nwybz.fr/"><strong>Notre site »</strong></a>
     <br/>
     <br/>
   </p>
