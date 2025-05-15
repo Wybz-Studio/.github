@@ -23,6 +23,7 @@
 - Klimt & Co
 - Cyrus App
 - Imersia
+- SoundCircle
 
 ## Utilisation de l'intelligence artificielle
 
