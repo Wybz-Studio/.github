@@ -77,7 +77,6 @@ Excellent réflexe. Voici des **sections supplémentaires à intégrer à ta che
 
 * [ ] Score Lighthouse > 90 sur **Mobile et Desktop** (Performance, a11y, Best practices, SEO)
 * [ ] Images optimisées (WebP/SVG, tailles adaptées, lazy-loading)
-* [ ] CSS / JS minifiés en prod
 * [ ] Aucun appel réseau inutile ou redondant
 * [ ] Temps de chargement inférieur à 2s en 4G simulée
 
@@ -93,7 +92,7 @@ Excellent réflexe. Voici des **sections supplémentaires à intégrer à ta che
 
 ### 📦 **Code & Structure**
 
-* [ ] Code commenté si nécessaire, clair, sans console.log résiduels
+* [ ] Code commenté si nécessaire, clair, sans console.log inutiles
 * [ ] Fichiers inutilisés supprimés (CSS morts, images jamais appelées, etc.)
 * [ ] Convention de nommage respectée (CamelCase, kebab-case, etc.)
 
