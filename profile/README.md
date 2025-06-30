@@ -23,7 +23,9 @@
 - Klimt & Co
 - Cyrus App
 - Imersia
-- SoundCircle
+- Featuring
+- Miridiahost
+- U-Conciergerie
 
 ## Utilisation de l'intelligence artificielle
 
@@ -35,3 +37,8 @@
 * **Raphaël Laurens** - *développeur, Sys. Admin* - [GitHub](https://github.com/Raraph84)
 
 *Merci à [Mathis J.](https://github.com/SuperCraft3M) pour son aide sur certains des projets.*
+
+
+## Checklist de vérification de fin de projet
+
+Notre checklist pour vérifier si un projet est complet se trouve [ici](./checklist.md).
